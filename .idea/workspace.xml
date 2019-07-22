@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d8a1280-00ba-4559-a3b1-b6c1efc08ec3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d8a1280-00ba-4559-a3b1-b6c1efc08ec3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/.gradle/" />
@@ -63,7 +61,7 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="920">
+                <MainEditorState relative-caret-position="515">
                   <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
                 </MainEditorState>
               </EduEditorState>
@@ -103,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Course">
@@ -128,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +187,7 @@
       <workItem from="1563815270322" duration="455000" />
       <workItem from="1563815760161" duration="2968000" />
       <workItem from="1563824653079" duration="383000" />
+      <workItem from="1563826032130" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1563824900404</created>
@@ -233,7 +232,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19082000" />
+    <option name="totallyTimeSpent" value="19234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +266,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005513" side_tool="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49944875" visible="true" weight="0.22533749" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49944875" weight="0.22533749" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Maven" order="0" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -285,6 +284,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme" />
@@ -317,7 +342,7 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="920">
+            <MainEditorState relative-caret-position="515">
               <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
             </MainEditorState>
           </EduEditorState>
